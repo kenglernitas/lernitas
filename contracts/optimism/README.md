@@ -1,0 +1,1 @@
+Contracts were generated with: https://github.com/Vectorized/solady
